@@ -14,3 +14,8 @@ Blog Model takes in image,title,description, date and time for publishing the bl
 ![Screenshot 2019-03-14 at 10 53 43 PM](https://user-images.githubusercontent.com/37113163/54380432-70f87e80-46b1-11e9-850b-5aac66d5cdeb.png)
 
 ![Screenshot 2019-03-14 at 11 26 49 PM](https://user-images.githubusercontent.com/37113163/54380462-8c638980-46b1-11e9-943d-9157fda8aa78.png)
+
+## New changes made:
+![Screenshot 2019-03-20 at 6 51 20 PM](https://user-images.githubusercontent.com/37113163/55403686-0336c880-5574-11e9-882c-b3eae643e6bf.png)
+
+![Screenshot 2019-03-20 at 5 28 25 PM](https://user-images.githubusercontent.com/37113163/55403710-10ec4e00-5574-11e9-8f0f-b87dbe082d75.png)
